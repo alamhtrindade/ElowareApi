@@ -1,0 +1,7 @@
+com/eloworks/crm/repository/IAddressRepository.class
+com/eloworks/crm/controller/AddressController.class
+com/eloworks/crm/model/Address.class
+com/eloworks/crm/ElowareApiApplication.class
+com/eloworks/crm/model/Person.class
+com/eloworks/crm/controller/PersonController.class
+com/eloworks/crm/repository/IPersonRepository.class
