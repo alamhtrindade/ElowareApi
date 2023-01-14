@@ -43,7 +43,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<maven.compiler.release>11</maven.compiler.release>
+
 	<build>
 		<plugins>
 			<plugin>
